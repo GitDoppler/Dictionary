@@ -90,7 +90,7 @@ function Nav() {
                 </Link>
                 <div className="flex items-center gap-4 md:gap-7">
                     <div className="relative flex gap-4">
-                        <span className={" w-[5rem] text-center font-bold dark:text-white md:w-[5.625] md:text-lg"}>{font}</span>
+                        <span className={" w-[5rem] text-center font-bold dark:text-white md:w-[5.625rem] md:text-lg"}>{font}</span>
                         <button
                             onClick={() => {
                                 setOpen(!open);
