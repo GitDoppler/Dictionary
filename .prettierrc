@@ -1,0 +1,3 @@
+tabWidth: 4
+printWidth: 800
+plugins: ["prettier-plugin-tailwindcss"]
